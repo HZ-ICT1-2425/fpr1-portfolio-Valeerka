@@ -1,0 +1,33 @@
+/**
+
+    THIS IS THE CSS FOR FOR THE DASHBOARD PAGE, THIS FILE CONTAINS CUSTOM ITEMS
+    ONLY NEEDED FOR THE DASHBOARD PAGE
+
+ */
+
+table {
+    width: 60%;
+    margin: 0 auto;
+    border-collapse: collapse;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-bottom: 5%;
+}
+
+td,
+th {
+    padding: 10px;
+    text-align: left;
+}
+
+
+/* Stickers random placement */
+
+.img-stickerSmileyFace {
+    position: absolute;
+    top: 150px;
+    left: 120px;
+    transform: rotate(-5deg);
+    width: 140px;
+    height: auto;
+    object-fit: cover;
+}
