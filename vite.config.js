@@ -14,6 +14,7 @@ export default defineConfig({
                 'resources/css/profile.css',
                 'resources/css/dashboard.css',
                 'resources/css/faq.css',
+                'resources/css/blog.css',
 
                 //images welcome
                 'resources/images/Welcome/GifButtonsHere.webp',
@@ -80,6 +81,11 @@ export default defineConfig({
 
                 //images Faq
                 'resources/images/Faq/GifOverlayGlitter.gif',
+
+                //images Blog
+                'resources/images/Blog/Blog01BannerSWOT.png',
+                'resources/images/Blog/Blog02BannerHzBuilding.jpg',
+                'resources/images/Blog/Blog03BannerCloud.jpg',
             ],
             refresh: true,
             //styles

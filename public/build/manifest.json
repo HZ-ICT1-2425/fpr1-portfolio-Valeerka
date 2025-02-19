@@ -31,6 +31,11 @@
     "file": "assets/fa-v4compatibility-C9RhG_FT.woff2",
     "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-v4compatibility.woff2"
   },
+  "resources/css/blog.css": {
+    "file": "assets/blog-KEpoSBcW.css",
+    "src": "resources/css/blog.css",
+    "isEntry": true
+  },
   "resources/css/dashboard.css": {
     "file": "assets/dashboard-DHkXEW5b.css",
     "src": "resources/css/dashboard.css",
@@ -79,6 +84,18 @@
   "resources/images/AllPages/newBanner.gif": {
     "file": "assets/newBanner-Db5nRrdH.gif",
     "src": "resources/images/AllPages/newBanner.gif"
+  },
+  "resources/images/Blog/Blog01BannerSWOT.png": {
+    "file": "assets/Blog01BannerSWOT-2aZoSpvh.png",
+    "src": "resources/images/Blog/Blog01BannerSWOT.png"
+  },
+  "resources/images/Blog/Blog02BannerHzBuilding.jpg": {
+    "file": "assets/Blog02BannerHzBuilding-DbDALUdC.jpg",
+    "src": "resources/images/Blog/Blog02BannerHzBuilding.jpg"
+  },
+  "resources/images/Blog/Blog03BannerCloud.jpg": {
+    "file": "assets/Blog03BannerCloud-BmR__BzZ.jpg",
+    "src": "resources/images/Blog/Blog03BannerCloud.jpg"
   },
   "resources/images/Dashboard/StickerSmileyFace.png": {
     "file": "assets/StickerSmileyFace-C93Y758i.png",

@@ -18,7 +18,7 @@
         <li><a href="{{ route('profile') }}">profile</a></li>
         <li><a href="{{ route('dashboard') }}">dashboard</a></li>
         <li><a href="{{ route('faq') }}">faq</a></li>
-        <li><a href="blog.blade.php">blog</a></li>
+        <li><a href="{{ route('blog') }}">blog</a></li>
     </ul>
 </nav>
 <main>
