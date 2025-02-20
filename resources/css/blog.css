@@ -1,0 +1,82 @@
+/**
+
+    THIS IS THE CSS FOR FOR THE BLOG PAGE, THIS FILE CONTAINS CUSTOM ITEMS
+    ONLY NEEDED FOR THE BLOG PAGE
+
+ */
+
+.content-box-blog {
+    position: relative;
+    background-color: #ffffff7b;
+    padding: 30px;
+    margin: 110px auto;
+    max-width: 800px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* --- ^ Blog-articles ^ ------------------------------------------ */
+
+body-blog {
+    padding: 20px;
+    background: rgba(255, 255, 255, 0.44);
+}
+
+.column-blog {
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.blogPostsPictures {
+    width: 200px;
+    padding: 20px;
+}
+
+.blogPostsPictures img {
+    width: 300px;
+    height: 200px;
+    overflow: hidden;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -20px;
+}
+
+.readmore {
+    text-align: right;
+}
+
+.card-blog {
+    background-color: rgba(255, 255, 255, 0.358);
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+.row:after-blog {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.EndTextBlog {
+    padding: 20px;
+    text-align: center;
+    background: #ffffff33;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+
+/*
+@media screen and (max-width: 800px) {
+
+    .leftcolumn-blog,
+    .rightcolumn-blog {
+        width: 100%;
+        padding: 0;
+    }
+
+} */

@@ -1,0 +1,182 @@
+/**
+
+    THIS IS A GENERAL STYLE CSS. THIS CONTAINS MOST IF NOT ALL STYLE INFLUENCE FOR
+    THE WEB PAGE. THINGS LIKE NAVBAR,FOOTER BUT ALSO THINGS LIKE THE BACKGROUND AND
+    THE FONTS USED
+
+ */
+
+/* -------- v nav bar v ------------------------------------------- */
+.navbar {
+    background-color:rgba(32, 46, 110, 0.144);
+    backdrop-filter: blur(10px);
+    background-size: inherit;
+    background-position: 100% 75%;
+    background-repeat: no-repeat;
+    padding: 15px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 30px;
+    box-shadow: 4px 5px 8px 1px rgba(0, 0, 0, 0.256);
+    position: fixed;
+    top: 0%;
+    left: 0%;
+    right: 0%;
+    z-index: 2;
+
+}
+/* THE LINE OF DOTS, HERE IT IS!!
+
+.dotsBorderBanner {
+    width: 200%;
+    position: fixed;
+    top: 56px;
+    left: -5%;
+    z-index: 2;
+}
+
+.dotsBorderFooter {
+    width: 200%;
+    position: relative;
+    bottom: -27px;
+    left: -5%;
+    z-index: 3;
+}
+    */
+
+.navbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: right;
+    flex-grow: 1;
+}
+
+
+
+.navbar ul li {
+    display: inline-block;
+    margin: 0 35px;
+}
+
+.navbar ul li a {
+    text-decoration: none;
+    color: #E6BACB;
+    padding: 10px 20px;
+    transition: all 0.3s ease;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+    font-family: 'TNanti-Demo', sans-serif;
+}
+
+.navbar ul li a:hover {
+    text-shadow: 5px 5px 5px rgb(0, 0, 0);
+}
+
+.navbarHome {
+    font-size: 40px;
+    color: #E6BACB;
+    text-decoration: none;
+    margin-right: auto;
+    padding-right: 20px;
+    text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.5);
+    transition: all 0.3s ease;
+    font-family: 'TNanti-Demo', sans-serif;
+}
+
+.navbarHome:hover {
+    text-shadow: 5px 5px 10px rgb(0, 0, 0);
+}
+
+/* -------- ^ nav bar ^ ------------------------------------------- */
+/* -------- v footer v ------------------------------------------- */
+
+footer {
+    background-color:rgba(250, 249, 249, 0.134);
+    backdrop-filter: blur(10px);
+    background-position: 100% 100%;
+    padding: 0;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    box-shadow: 4px 5px 8px 5px rgba(0, 0, 0, 0.256);
+}
+
+.footerTextLeft {
+    text-align: left;
+    color: #E6BACB;
+    font-family: 'TNanti-Demo', sans-serif;
+    font-size: 20px;
+    padding-left: 20px;
+}
+
+.footerTextRight {
+    text-align: right;
+    color: #E6BACB;
+    font-family: 'TNanti-Demo', sans-serif;
+    font-size: 20px;
+    padding-right: 20px;
+}
+/* -------- ^ footer ^ ------------------------------------------- */
+/* -------- v Background v ------------------------------------------- */
+
+body {
+    background-image: url('/resources/images/AllPages/NewBackGround.gif');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    margin: 0;
+}
+
+body, html {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+/* -------- ^ Background ^ ------------------------------------------- */
+/* -------- v main tekst v ------------------------------------------- */
+
+h1 , h2 {
+    color: rgb(32, 46, 110);
+    font-family: 'LTCushion-Medium', sans-serif;
+}
+
+p {
+    color: rgb(8, 15, 46);
+    font-family: 'LTCushion-Medium', sans-serif;
+}
+
+li {
+    text-align: left;
+    color: rgb(8, 15, 46);
+    font-family: 'LTCushion-Medium', sans-serif;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.container div {
+    width: 48%;
+}
+
+/* --- V content boxes for the titles of dashboard, faq & blog (index and home dont start with titles) V --------------------------- */
+
+.content-box-title {
+    background-color: #ffffff7b;
+    padding: 5px;
+    margin: 20px auto;
+    max-width: 600px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-top: 100px;
+}
+
+.content-box-title h1 {
+    text-align: center;
+}

@@ -31,8 +31,274 @@
     "file": "assets/fa-v4compatibility-C9RhG_FT.woff2",
     "src": "node_modules/@fortawesome/fontawesome-free/webfonts/fa-v4compatibility.woff2"
   },
+  "resources/css/blog.css": {
+    "file": "assets/blog-KEpoSBcW.css",
+    "src": "resources/css/blog.css",
+    "isEntry": true
+  },
+  "resources/css/dashboard.css": {
+    "file": "assets/dashboard-DHkXEW5b.css",
+    "src": "resources/css/dashboard.css",
+    "isEntry": true
+  },
+  "resources/css/faq.css": {
+    "file": "assets/faq-Bh57tQJM.css",
+    "src": "resources/css/faq.css",
+    "isEntry": true
+  },
+  "resources/css/index.css": {
+    "file": "assets/index-CR7KVsXL.css",
+    "src": "resources/css/index.css",
+    "isEntry": true
+  },
+  "resources/css/profile.css": {
+    "file": "assets/profile-CGFRVDgJ.css",
+    "src": "resources/css/profile.css",
+    "isEntry": true
+  },
+  "resources/css/styles.css": {
+    "file": "assets/styles-CTNqM3uQ.css",
+    "src": "resources/css/styles.css",
+    "isEntry": true
+  },
+  "resources/images/AllPages/NavBarBackground.gif": {
+    "file": "assets/NavBarBackground-uPuCW4YS.gif",
+    "src": "resources/images/AllPages/NavBarBackground.gif"
+  },
+  "resources/images/AllPages/NewBackGround.gif": {
+    "file": "assets/NewBackGround-DU0LL5R4.gif",
+    "src": "resources/images/AllPages/NewBackGround.gif"
+  },
+  "resources/images/AllPages/WebsiteMainBackground.gif": {
+    "file": "assets/WebsiteMainBackground-D9oOVW4A.gif",
+    "src": "resources/images/AllPages/WebsiteMainBackground.gif"
+  },
+  "resources/images/AllPages/dotsBanner.png": {
+    "file": "assets/dotsBanner-DN5GSMbB.png",
+    "src": "resources/images/AllPages/dotsBanner.png"
+  },
+  "resources/images/AllPages/newBackGroundTest.png": {
+    "file": "assets/newBackGroundTest-HZZV9cbY.png",
+    "src": "resources/images/AllPages/newBackGroundTest.png"
+  },
+  "resources/images/AllPages/newBanner.gif": {
+    "file": "assets/newBanner-Db5nRrdH.gif",
+    "src": "resources/images/AllPages/newBanner.gif"
+  },
+  "resources/images/Blog/Blog01BannerSWOT.png": {
+    "file": "assets/Blog01BannerSWOT-2aZoSpvh.png",
+    "src": "resources/images/Blog/Blog01BannerSWOT.png"
+  },
+  "resources/images/Blog/Blog02BannerHzBuilding.jpg": {
+    "file": "assets/Blog02BannerHzBuilding-DbDALUdC.jpg",
+    "src": "resources/images/Blog/Blog02BannerHzBuilding.jpg"
+  },
+  "resources/images/Blog/Blog03BannerCloud.jpg": {
+    "file": "assets/Blog03BannerCloud-BmR__BzZ.jpg",
+    "src": "resources/images/Blog/Blog03BannerCloud.jpg"
+  },
+  "resources/images/Dashboard/StickerSmileyFace.png": {
+    "file": "assets/StickerSmileyFace-C93Y758i.png",
+    "src": "resources/images/Dashboard/StickerSmileyFace.png"
+  },
+  "resources/images/Faq/GifOverlayGlitter.gif": {
+    "file": "assets/GifOverlayGlitter-kkeAzPqE.gif",
+    "src": "resources/images/Faq/GifOverlayGlitter.gif"
+  },
+  "resources/images/Profile/Dogs01.jpg": {
+    "file": "assets/Dogs01-B62BQOUS.jpg",
+    "src": "resources/images/Profile/Dogs01.jpg"
+  },
+  "resources/images/Profile/Dogs02.jpg": {
+    "file": "assets/Dogs02-DzKkdKSb.jpg",
+    "src": "resources/images/Profile/Dogs02.jpg"
+  },
+  "resources/images/Profile/Dogs03.jpg": {
+    "file": "assets/Dogs03-BrKg-W9T.jpg",
+    "src": "resources/images/Profile/Dogs03.jpg"
+  },
+  "resources/images/Profile/Dogs04.jpg": {
+    "file": "assets/Dogs04-SaF8XV8f.jpg",
+    "src": "resources/images/Profile/Dogs04.jpg"
+  },
+  "resources/images/Profile/Dogs05.jpg": {
+    "file": "assets/Dogs05-BWR0Z_-E.jpg",
+    "src": "resources/images/Profile/Dogs05.jpg"
+  },
+  "resources/images/Profile/Dogs06.jpg": {
+    "file": "assets/Dogs06-eSM_zuoM.jpg",
+    "src": "resources/images/Profile/Dogs06.jpg"
+  },
+  "resources/images/Profile/Dogs07.jpg": {
+    "file": "assets/Dogs07-BEPQPcBG.jpg",
+    "src": "resources/images/Profile/Dogs07.jpg"
+  },
+  "resources/images/Profile/Dogs08.jpg": {
+    "file": "assets/Dogs08-DkaOJ3Ij.jpg",
+    "src": "resources/images/Profile/Dogs08.jpg"
+  },
+  "resources/images/Profile/Dogs09.jpg": {
+    "file": "assets/Dogs09-DN1qOlwz.jpg",
+    "src": "resources/images/Profile/Dogs09.jpg"
+  },
+  "resources/images/Profile/Dogs10.jpg": {
+    "file": "assets/Dogs10-BgBZQeQC.jpg",
+    "src": "resources/images/Profile/Dogs10.jpg"
+  },
+  "resources/images/Profile/Dogs11.jpg": {
+    "file": "assets/Dogs11-DiEPfqUm.jpg",
+    "src": "resources/images/Profile/Dogs11.jpg"
+  },
+  "resources/images/Profile/Dogs12.jpg": {
+    "file": "assets/Dogs12-CpreaKns.jpg",
+    "src": "resources/images/Profile/Dogs12.jpg"
+  },
+  "resources/images/Profile/Dogs13.jpg": {
+    "file": "assets/Dogs13-DYt1Xqpg.jpg",
+    "src": "resources/images/Profile/Dogs13.jpg"
+  },
+  "resources/images/Profile/Dogs14.jpg": {
+    "file": "assets/Dogs14-CRTi693m.jpg",
+    "src": "resources/images/Profile/Dogs14.jpg"
+  },
+  "resources/images/Profile/Dogs15.jpg": {
+    "file": "assets/Dogs15-CGyeyTwY.jpg",
+    "src": "resources/images/Profile/Dogs15.jpg"
+  },
+  "resources/images/Profile/Dogs16.jpg": {
+    "file": "assets/Dogs16-BYlQmx5Q.jpg",
+    "src": "resources/images/Profile/Dogs16.jpg"
+  },
+  "resources/images/Profile/Dogs17.jpg": {
+    "file": "assets/Dogs17-Dgke5961.jpg",
+    "src": "resources/images/Profile/Dogs17.jpg"
+  },
+  "resources/images/Profile/Dogs18.jpg": {
+    "file": "assets/Dogs18-Caq-Ee4V.jpg",
+    "src": "resources/images/Profile/Dogs18.jpg"
+  },
+  "resources/images/Profile/Dogs19.jpg": {
+    "file": "assets/Dogs19-Cu_4Az1T.jpg",
+    "src": "resources/images/Profile/Dogs19.jpg"
+  },
+  "resources/images/Profile/LinkPictogramEmail.png": {
+    "file": "assets/LinkPictogramEmail-Cj_b_PAE.png",
+    "src": "resources/images/Profile/LinkPictogramEmail.png"
+  },
+  "resources/images/Profile/LinkPictogramEmailNew.png": {
+    "file": "assets/LinkPictogramEmailNew-Da3S1uP5.png",
+    "src": "resources/images/Profile/LinkPictogramEmailNew.png"
+  },
+  "resources/images/Profile/LinkPictogramGithub.png": {
+    "file": "assets/LinkPictogramGithub-BGTmWFIG.png",
+    "src": "resources/images/Profile/LinkPictogramGithub.png"
+  },
+  "resources/images/Profile/LinkPictogramGithubNew.png": {
+    "file": "assets/LinkPictogramGithubNew-DOSB-z8_.png",
+    "src": "resources/images/Profile/LinkPictogramGithubNew.png"
+  },
+  "resources/images/Profile/LinkPictogramInstagram.png": {
+    "file": "assets/LinkPictogramInstagram-BQdy18O2.png",
+    "src": "resources/images/Profile/LinkPictogramInstagram.png"
+  },
+  "resources/images/Profile/LinkPictogramInstagramNew.png": {
+    "file": "assets/LinkPictogramInstagramNew-CIBK2rHm.png",
+    "src": "resources/images/Profile/LinkPictogramInstagramNew.png"
+  },
+  "resources/images/Profile/ProfilePictureSelfie.jpg": {
+    "file": "assets/ProfilePictureSelfie-CAdcs5CN.jpg",
+    "src": "resources/images/Profile/ProfilePictureSelfie.jpg"
+  },
+  "resources/images/Profile/SpotifyArtistBSD.png": {
+    "file": "assets/SpotifyArtistBSD-DBYNtfYy.png",
+    "src": "resources/images/Profile/SpotifyArtistBSD.png"
+  },
+  "resources/images/Profile/SpotifyArtistNascar.png": {
+    "file": "assets/SpotifyArtistNascar-FoiDe1Im.png",
+    "src": "resources/images/Profile/SpotifyArtistNascar.png"
+  },
+  "resources/images/Profile/SpotifyArtistOliver.png": {
+    "file": "assets/SpotifyArtistOliver-BAog8zL4.png",
+    "src": "resources/images/Profile/SpotifyArtistOliver.png"
+  },
+  "resources/images/Profile/SpotifyArtistVira.png": {
+    "file": "assets/SpotifyArtistVira-BYV3gwji.png",
+    "src": "resources/images/Profile/SpotifyArtistVira.png"
+  },
+  "resources/images/Profile/StickerFilmCamera.png": {
+    "file": "assets/StickerFilmCamera-Dopap9gS.png",
+    "src": "resources/images/Profile/StickerFilmCamera.png"
+  },
+  "resources/images/Profile/StickerGreenUnderlineForText.png": {
+    "file": "assets/StickerGreenUnderlineForText-epQl8_Yk.png",
+    "src": "resources/images/Profile/StickerGreenUnderlineForText.png"
+  },
+  "resources/images/Profile/StickerHearts.png": {
+    "file": "assets/StickerHearts-vzIYoJSw.png",
+    "src": "resources/images/Profile/StickerHearts.png"
+  },
+  "resources/images/Profile/StickerSelfieBorder.png": {
+    "file": "assets/StickerSelfieBorder-CiSrKs8N.png",
+    "src": "resources/images/Profile/StickerSelfieBorder.png"
+  },
+  "resources/images/Profile/StickerSun.png": {
+    "file": "assets/StickerSun-BZseaCOm.png",
+    "src": "resources/images/Profile/StickerSun.png"
+  },
+  "resources/images/Profile/moviePosterKaos.jpg": {
+    "file": "assets/moviePosterKaos-BdOikTWl.jpg",
+    "src": "resources/images/Profile/moviePosterKaos.jpg"
+  },
+  "resources/images/Profile/moviePosterLoki.jpg": {
+    "file": "assets/moviePosterLoki-CcvSd7MV.jpg",
+    "src": "resources/images/Profile/moviePosterLoki.jpg"
+  },
+  "resources/images/Profile/moviePosterTheBlacklist.jpg": {
+    "file": "assets/moviePosterTheBlacklist-B0fEBz4t.jpg",
+    "src": "resources/images/Profile/moviePosterTheBlacklist.jpg"
+  },
+  "resources/images/Profile/moviePosterTheGoodPlace.jpg": {
+    "file": "assets/moviePosterTheGoodPlace-DsTaAHMe.jpg",
+    "src": "resources/images/Profile/moviePosterTheGoodPlace.jpg"
+  },
+  "resources/images/Profile/moviePosteriZombie.jpg": {
+    "file": "assets/moviePosteriZombie-4NAaW-WG.jpg",
+    "src": "resources/images/Profile/moviePosteriZombie.jpg"
+  },
+  "resources/images/Welcome/GifButtonsHere.webp": {
+    "file": "assets/GifButtonsHere-B81prXNe.webp",
+    "src": "resources/images/Welcome/GifButtonsHere.webp"
+  },
+  "resources/images/Welcome/GifHackerMan.webp": {
+    "file": "assets/GifHackerMan-CyFU-z-h.webp",
+    "src": "resources/images/Welcome/GifHackerMan.webp"
+  },
+  "resources/images/Welcome/GifLittleGirl.webp": {
+    "file": "assets/GifLittleGirl-NBefNcNc.webp",
+    "src": "resources/images/Welcome/GifLittleGirl.webp"
+  },
+  "resources/images/Welcome/StickerBlackCat.png": {
+    "file": "assets/StickerBlackCat-BfZit8Vv.png",
+    "src": "resources/images/Welcome/StickerBlackCat.png"
+  },
+  "resources/images/Welcome/StickerStars.png": {
+    "file": "assets/StickerStars-BmXX678P.png",
+    "src": "resources/images/Welcome/StickerStars.png"
+  },
+  "resources/images/Welcome/StickerTapeBottomPageBegin.png": {
+    "file": "assets/StickerTapeBottomPageBegin-CjcZr6Eb.png",
+    "src": "resources/images/Welcome/StickerTapeBottomPageBegin.png"
+  },
+  "resources/images/Welcome/StickerTapeTopPageBegin.png": {
+    "file": "assets/StickerTapeTopPageBegin-B1mcPTqP.png",
+    "src": "resources/images/Welcome/StickerTapeTopPageBegin.png"
+  },
+  "resources/images/Welcome/StickerTapeTopPageEnd.png": {
+    "file": "assets/StickerTapeTopPageEnd-Cj9185c5.png",
+    "src": "resources/images/Welcome/StickerTapeTopPageEnd.png"
+  },
   "resources/js/app.js": {
-    "file": "assets/app-Xaw6OIO1.js",
+    "file": "assets/app-CqflisoM.js",
     "name": "app",
     "src": "resources/js/app.js",
     "isEntry": true
